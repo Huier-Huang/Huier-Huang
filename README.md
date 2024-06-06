@@ -1,16 +1,23 @@
-## Hi there 👋
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TianMengLucky)  
 
-<!--
-**Huier-Huang/Huier-Huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianMengLucky)  
 
-Here are some ideas to get you started:
+Github:https://github.com/TianMengLucky  
+Discord:.huier  
+QQ:2133404320  
+QQ群:837094490  
+Bilibili:https://space.bilibili.com/394107547  
+GitCode:https://gitcode.com/Huier-Huang  
+Gitee:https://gitee.com/bilibili_MC  
+Gmail:mengchugood@gmail.com  
+X:https://x.com/Bili_TianMeng  
+其他先省略  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GPL协议开源精神的魅力！！  
+MIT协议的自由！！  
+
+喜爱的角色：伊蕾娜，银狼，鲨鲨，镜流，立华奏，甘城猫猫，猫羽雫，芙芙，胡桃，小小克星的玲，恭介，晓太和麻衣，炮姐黑子教主，东方月初----待完  
+
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TianMengLucky&theme=react-dark)
+
+![gh](https://stats.justsong.cn/api/github/?username=TianMengLucky&theme=light)

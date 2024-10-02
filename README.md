@@ -11,18 +11,6 @@ GitCode:https://gitcode.com/Huier-Huang
 Gitee:https://gitee.com/bilibili_MC  
 Gmail:mengchugood@gmail.com  
 X:https://x.com/Bili_TianMeng  
-其他先省略  
-
-Language:Chinese,English  
-Code Language:  
-1.C#  
-2.TypeScript  
-3.Python  
-4.Go  
-5.Rust  
-6.Kotlin  
-7.Java  
-8.C++  
 
 GPL协议开源精神的魅力！！  
 MIT协议的自由！！  

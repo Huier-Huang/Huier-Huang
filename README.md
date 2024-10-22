@@ -15,6 +15,8 @@ X:https://x.com/Bili_TianMeng
 GPL协议开源精神的魅力！！  
 MIT协议的自由！！  
 
+只会C#,JAVA kotlin语法相似应该会,GO TypeScript Rust C++ 看得懂  
+
 喜爱的角色：伊蕾娜，银狼，鲨鲨，镜流，立华奏，甘城猫猫，猫羽雫，芙芙，胡桃，小小克星的玲，恭介，晓太和麻衣，炮姐黑子教主，东方月初----待完  
 
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TianMengLucky&theme=react-dark)
